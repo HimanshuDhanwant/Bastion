@@ -2,7 +2,7 @@
  * @file The starting point of Bastion
  * @author Sankarsan Kampa (a.k.a k3rn31p4nic)
  * @license GPL-3.0
- * Awsome application by an awesome programmer
+ * Hacktoberfest 
  */
 
 const Tesseract = xrequire('tesseract');
